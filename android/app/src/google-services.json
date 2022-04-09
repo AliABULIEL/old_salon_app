@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "218884701217",
+    "project_id": "elidor-f68ca",
+    "storage_bucket": "elidor-f68ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218884701217:android:d67ca36b5be88d30aef760",
+        "android_client_info": {
+          "package_name": "ac.il.elidor_barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218884701217-tif44ov2d8mjln4no54k9kskht7j4lvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZTnPGDc87vGhdtQIaRZAnw8ff0AfIRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218884701217-tif44ov2d8mjln4no54k9kskht7j4lvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218884701217-ooaokk8i9n3c0g5vl30mqclrngu18gg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salon-app.OmarBarberShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
